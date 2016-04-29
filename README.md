@@ -2,9 +2,11 @@
 This is a demo of [Deep Compression](http://arxiv.org/pdf/1510.00149v5.pdf) compressing AlexNet from 233MB to 8.9MB without loss of accuracy. It only differs from the paper that Huffman coding is not applied.
 
 # Related Papers
-[1] [Learning both Weights and Connections for Efficient Neural Network](http://arxiv.org/pdf/1506.02626v3.pdf)
-[2] [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://arxiv.org/pdf/1510.00149v5.pdf)
-[3] [EIE: Efficient Inference Engine on Compressed Deep Neural Network](http://arxiv.org/pdf/1602.01528v1.pdf)
+[Learning both Weights and Connections for Efficient Neural Network](http://arxiv.org/pdf/1506.02626v3.pdf)
+
+[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://arxiv.org/pdf/1510.00149v5.pdf)
+
+[EIE: Efficient Inference Engine on Compressed Deep Neural Network](http://arxiv.org/pdf/1602.01528v1.pdf)
 
 If you find Deep Compression useful in your research, please consider citing the paper:
 
