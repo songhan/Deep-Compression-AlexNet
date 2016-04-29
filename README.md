@@ -1,7 +1,7 @@
 # Deep Compression-AlexNet
 This is a demo of [Deep Compression](http://arxiv.org/pdf/1510.00149v5.pdf) compressing AlexNet from 233MB to 8.9MB without loss of accuracy. It only differs from the paper that Huffman coding is not applied.
 
-
+# Related Papers
 If you find Deep Compression useful in your research, please consider citing the paper:
 
 @inproceedings{han2015learning,
@@ -31,7 +31,7 @@ A hardware accelerator working directly on the deep compressed model:
 
 
 
-Usage:
+# Usage:
 
     export CAFFE_ROOT=$your caffe root$
 
@@ -42,6 +42,6 @@ Usage:
     ./build/tools/caffe test --model=models/bvlc_alexnet/train_val.prototxt --weights=alexnet.caffemodel --iterations=1000 --gpu 0
 
 
-Test Result:
+# Test Result:
 	I1022 20:18:58.336736 13182 caffe.cpp:198] accuracy_top1 = 0.57074
 	I1022 20:18:58.336745 13182 caffe.cpp:198] accuracy_top5 = 0.80254
