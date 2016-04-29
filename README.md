@@ -4,30 +4,30 @@ This is a demo of [Deep Compression](http://arxiv.org/pdf/1510.00149v5.pdf) comp
 # Related Papers
 If you find Deep Compression useful in your research, please consider citing the paper:
 
-@inproceedings{han2015learning,
-  title={[Learning both Weights and Connections for Efficient Neural Network](http://arxiv.org/pdf/1506.02626v3.pdf)},
-  author={Han, Song and Pool, Jeff and Tran, John and Dally, William},
-  booktitle={Advances in Neural Information Processing Systems (NIPS)},
-  pages={1135--1143},
-  year={2015}
-}
+	@inproceedings{han2015learning,
+	  title={[Learning both Weights and Connections for Efficient Neural Network](http://arxiv.org/pdf/1506.02626v3.pdf)},
+	  author={Han, Song and Pool, Jeff and Tran, John and Dally, William},
+	  booktitle={Advances in Neural Information Processing Systems (NIPS)},
+	  pages={1135--1143},
+	  year={2015}
+	}
 
 
-@article{han2015deep_compression,
-  title={[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://arxiv.org/pdf/1510.00149v5.pdf)},
-  author={Han, Song and Mao, Huizi and Dally, William J},
-  journal={International Conference on Learning Representations (ICLR)},
-  year={2016}
-}
+	@article{han2015deep_compression,
+	  title={[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://arxiv.org/pdf/1510.00149v5.pdf)},
+	  author={Han, Song and Mao, Huizi and Dally, William J},
+	  journal={International Conference on Learning Representations (ICLR)},
+	  year={2016}
+	}
 
-A hardware accelerator working directly on the deep compressed model:
+**A hardware accelerator working directly on the deep compressed model:**
 
-@article{han2016eie,
-  title={[EIE: Efficient Inference Engine on Compressed Deep Neural Network](http://arxiv.org/pdf/1602.01528v1.pdf)},
-  author={Han, Song and Liu, Xingyu and Mao, Huizi and Pu, Jing and Pedram, Ardavan and Horowitz, Mark A and Dally, William J},
-  journal={International Conference on Computer Architecture (ISCA)},
-  year={2016}
-}
+	@article{han2016eie,
+	  title={[EIE: Efficient Inference Engine on Compressed Deep Neural Network](http://arxiv.org/pdf/1602.01528v1.pdf)},
+	  author={Han, Song and Liu, Xingyu and Mao, Huizi and Pu, Jing and Pedram, Ardavan and Horowitz, Mark A and Dally, William J},
+	  journal={International Conference on Computer Architecture (ISCA)},
+	  year={2016}
+	}
 
 
 
