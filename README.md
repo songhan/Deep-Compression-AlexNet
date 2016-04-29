@@ -22,7 +22,7 @@ If you find Deep Compression useful in your research, please consider citing the
 
 **A hardware accelerator working directly on the deep compressed model:**
 
-	@article{han2016eie,
+@article{han2016eie,
   title={[EIE: Efficient Inference Engine on Compressed Deep Neural Network](http://arxiv.org/pdf/1602.01528v1.pdf)},
   author={Han, Song and Liu, Xingyu and Mao, Huizi and Pu, Jing and Pedram, Ardavan and Horowitz, Mark A and Dally, William J},
   journal={International Conference on Computer Architecture (ISCA)},
