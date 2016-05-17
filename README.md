@@ -1,5 +1,5 @@
 # Deep Compression on AlexNet
-This is a demo of [Deep Compression](http://arxiv.org/pdf/1510.00149v5.pdf) compressing AlexNet from 233MB to 8.9MB without loss of accuracy. It only differs from the paper that Huffman coding is not applied.
+This is a demo of [Deep Compression](http://arxiv.org/pdf/1510.00149v5.pdf) compressing AlexNet from 233MB to 8.9MB without loss of accuracy. It only differs from the paper that Huffman coding is not applied. Deep Compression's video from [ICLR'16 best paper award presentation](https://youtu.be/kQAhW9gh6aU) is available. 
 
 # Related Papers
 [Learning both Weights and Connections for Efficient Neural Network (NIPS'15)](http://arxiv.org/pdf/1506.02626v3.pdf)
