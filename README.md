@@ -6,7 +6,7 @@
 
 	[HAQ: Hardware-Aware Automated Quantization](https://arxiv.org/pdf/1811.08886.pdf)  (CVPR’19)
 	
-	[Defenstive Quantization](https://openreview.net/pdf?id=ryetZ20ctX) (ICLR'19)
+	[Defenstive Quantization: When Efficiency Meet Robustness](https://openreview.net/pdf?id=ryetZ20ctX) (ICLR'19)
 
 
 # Deep Compression on AlexNet
