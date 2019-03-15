@@ -1,10 +1,10 @@
 - March 15, 2019: for our most updated work on model compression and acceleration, please reference: 
 
-ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware (ICLR’19)
+	ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware (ICLR’19)
 
-AMC: AutoML for Model Compression and Acceleration on Mobile Devices (ECCV’18)
+	AMC: AutoML for Model Compression and Acceleration on Mobile Devices (ECCV’18)
 
-HAQ: Hardware-Aware Automated Quantization (CVPR’19)
+	HAQ: Hardware-Aware Automated Quantization (CVPR’19)
 
 
 # Deep Compression on AlexNet
