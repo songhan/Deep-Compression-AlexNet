@@ -1,3 +1,9 @@
+- March 15, 2019: for our most updated work on model compression and acceleration, please reference: 
+ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware (ICLR’19)
+AMC: AutoML for Model Compression and Acceleration on Mobile Devices (ECCV’18)
+HAQ: Hardware-Aware Automated Quantization (CVPR’19)
+
+
 # Deep Compression on AlexNet
 This is a demo of [Deep Compression](http://arxiv.org/pdf/1510.00149v5.pdf) compressing AlexNet from 233MB to 8.9MB without loss of accuracy. It only differs from the paper that Huffman coding is not applied. Deep Compression's video from [ICLR'16 best paper award presentation](https://youtu.be/kQAhW9gh6aU) is available. 
 
